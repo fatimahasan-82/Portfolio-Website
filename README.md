@@ -58,6 +58,6 @@ Make sure you have **Node.js** and **npm** installed.
 
 ##  License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This repository is intended for personal or portfolio display purposes only. It is **not open source** and not available for reuse.
 
 ---
